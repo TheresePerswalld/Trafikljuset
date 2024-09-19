@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(160, 156, 156);
+}
+
+.container {
+    border: 10px solid white;
+    background-color: white;
+    height: 850px;
+    width: 300px;
+    margin: auto;
+}
+
+header,
+main,
+footer {
+    height: 230px;
+    margin: 20px;
+}
+
+header {
+    background-color: red;
+    border: 15px solid rgb(160, 12, 12);
+}
+
+main {
+    background-color: yellow;
+    border: 15px solid rgb(155, 155, 16)
+}
+
+footer {
+    background-color: rgb(13, 197, 13);
+    border: 15px solid green
+}
+
+.head {
+    background-color: rgb(233, 114, 114);
+    height: 115px;
+    width: 230px;
+    margin-top: 115px
+}
+
+.mainer {
+    height: 110px;
+    width: 110px;
+    background-color: rgb(214, 212, 70);
+    margin-top: 120px;
+    margin-left: 120px;
+}
+
+.foot {
+    background-color: rgb(90, 218, 90);
+    height: 110px;
+    width: 110px;
+    margin-top: 120px;
+}
